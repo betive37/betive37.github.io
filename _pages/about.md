@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: My motto. 머릿속에 있는 것을 설득력 있게 전달하고자 노력합니다.
 
 profile:
   align: right
