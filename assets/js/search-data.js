@@ -59,9 +59,9 @@ ninja.data = [{
           description: "EP Album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-illusion",
+          title: 'Illusion',
+          description: "Single Album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-project-6",
