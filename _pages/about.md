@@ -6,10 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>46, Dongmak-ro 32-gil, Mapo-gu, Seoul, Republic of Korea</p>
+    <p>official ID Card Picture</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
