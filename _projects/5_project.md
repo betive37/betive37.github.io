@@ -3,6 +3,7 @@ layout: page
 title: Illusion
 description: Single Album
 img: assets/img/illusion.jpg
+redirect: https://open.spotify.com/album/0o3ognzjd6FYCRsNFN1LIs?si=E0fjFooqRAiNLOFfycYMMg
 importance: 3
 category: creation
 ---
