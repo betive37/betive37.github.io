@@ -21,5 +21,5 @@ category: work
     </div>
 </div>
 <div class="caption">
-    이미지를 클릭하면 해당 PDF 문서를 볼 수 있습니다. 🖼️
+    이미지를 클릭하면 해당 PDF 문서를 볼 수 있습니다.
 </div>
