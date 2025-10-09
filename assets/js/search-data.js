@@ -79,9 +79,9 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-점철의-움직임-the-movement-of-converging",
+          title: '점철의 움직임 (The Movement of Converging)',
+          description: "ONSO MEDIA CONTEST 2023 현대차 정몽구 재단 온드림 소사이어티 미디어 공모전 입상작 / Sound Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{
