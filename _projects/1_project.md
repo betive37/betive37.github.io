@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: AI MASTERING DETECTOR: ANALYZING THE IMPACT OF AI ON MUSIC POST-PRODUCTION
+description: at ISMIR 2025 (LBD)
+img: assets/img/465_poster.jpg
 importance: 1
 category: work
 related_publications: true
