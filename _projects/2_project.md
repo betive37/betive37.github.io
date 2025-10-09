@@ -3,7 +3,7 @@ layout: page
 title: Cake-able Diffusion
 description: Team Project on Generative AI - AATG010
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
 giscus_comments: true
 ---
