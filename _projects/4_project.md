@@ -3,6 +3,7 @@ layout: page
 title: 교차로 (Crossroad)
 description: EP Album
 img: assets/img/crossroad.jpg
+redirect: http://crossroad.mostcreative.co.kr/
 importance: 3
 category: creation
 ---
