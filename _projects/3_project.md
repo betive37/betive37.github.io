@@ -2,7 +2,7 @@
 layout: page
 title: The Correlation and Influencing Factors Between the Spotify Database and YouTube Views
 description: Team Project on Industrial Mathematics - MAT4331
-img: assets/img/7.jpg
+img: assets/img/mat4331_preview.png
 importance: 1
 category: work
 ---
