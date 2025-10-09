@@ -3,7 +3,7 @@ layout: page
 title: Rumination
 description: Individual Project on Creative Capstone Project I - AAT2005
 img:
-importance: 4
+importance: 3
 category: work
 ---
 
