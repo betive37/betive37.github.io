@@ -76,7 +76,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project.html";
             },},{id: "projects-palewatch-game",
           title: 'PALEWATCH (Game)',
-          description: "an other project with a background image and giscus comments",
+          description: "2024 Busan Indie Game Conference 전시작 / Sound Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
             },},{id: "projects-점철의-움직임-the-movement-of-converging",
