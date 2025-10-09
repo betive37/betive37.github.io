@@ -12,4 +12,4 @@ category: work
 - Conducted two rounds of user tests where participants compared the new system against the conventional method across various music genres, providing qualitative feedback on immersion and synchronization.
 - Validated that the AI-enhanced system provided a superior user experience, with test subjects unanimously preferring it for its significant reduction in perceived delay.
 
-<iframe width="auto" height="100%" src="https://www.youtube.com/embed/RP8RmnAGdfc?si=CtwR8TnthyX6nDZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/RP8RmnAGdfc?si=CtwR8TnthyX6nDZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
