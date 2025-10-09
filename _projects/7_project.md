@@ -9,7 +9,7 @@ category: work
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/My1ZPt6do4Y?si=pJO6EjpksCskUrrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="100%" height="600" src="https://www.youtube.com/embed/My1ZPt6do4Y?si=pJO6EjpksCskUrrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         <a href="/assets/pdf/nlp_report.pdf" target="_blank">
