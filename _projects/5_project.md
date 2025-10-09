@@ -2,7 +2,7 @@
 layout: page
 title: Illusion
 description: Single Album
-img: assets/img/1.jpg
+img: assets/img/illusion.jpg
 importance: 3
 category: creation
 ---
