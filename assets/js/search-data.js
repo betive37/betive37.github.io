@@ -69,9 +69,9 @@ ninja.data = [{
           description: "Individual Project on Creative Capstone Project I - AAT2005",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-inside-data-insight-data",
+          title: 'Inside Data, Insight Data',
+          description: "Team Project on Natural Language Processing - AAT3020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{id: "projects-project-8",
