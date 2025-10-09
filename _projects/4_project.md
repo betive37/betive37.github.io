@@ -2,7 +2,7 @@
 layout: page
 title: 교차로 (Crossroad)
 description: EP Album
-img:
+img: assets/img/crossroad.jpg
 importance: 3
 category: creation
 ---
