@@ -2,7 +2,7 @@
 layout: page
 title: Rumination
 description: Individual Project on Creative Capstone Project I - AAT2005
-img: assets/img/rumination.jpg
+img: assets/img/rumination.png
 importance: 2
 category: work
 ---
