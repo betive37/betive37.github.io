@@ -74,8 +74,8 @@ ninja.data = [{
           description: "Team Project on Natural Language Processing - AAT3020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
+            },},{id: "projects-palewatch-game",
+          title: 'PALEWATCH (Game)',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
