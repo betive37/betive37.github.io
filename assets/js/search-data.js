@@ -49,9 +49,9 @@ ninja.data = [{
           description: "Team Project on Generative AI - AATG010",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-the-correlation-and-influencing-factors-between-the-spotify-database-and-youtube-views",
+          title: 'The Correlation and Influencing Factors Between the Spotify Database and YouTube Views',
+          description: "Team Project on Industrial Mathematics - MAT4331",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-교차로-crossroad",
@@ -64,9 +64,9 @@ ninja.data = [{
           description: "Single Album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-rumination",
+          title: 'Rumination',
+          description: "Individual Project on Creative Capstone Project I - AAT2005",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-project-7",
