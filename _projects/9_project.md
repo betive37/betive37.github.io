@@ -4,7 +4,7 @@ title: 점철의 움직임 (The Movement of Converging)
 description: ONSO MEDIA CONTEST 2023 현대차 정몽구 재단 온드림 소사이어티 미디어 공모전 입상작 / Sound Design
 img: assets/img/6.jpg
 importance: 3
-category: work
+category: creation
 ---
 
 Every project has a beautiful feature showcase page.
