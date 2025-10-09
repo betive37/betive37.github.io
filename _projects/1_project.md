@@ -3,6 +3,7 @@ layout: page
 title: "AI MASTERING DETECTOR: ANALYZING THE IMPACT OF AI ON MUSIC POST-PRODUCTION"
 description: at ISMIR 2025 (LBD)
 img: assets/img/465_poster.jpg
+redirect: https://ismir2025program.ismir.net/lbd_465.html
 importance: 1
 category: work
 related_publications: true
