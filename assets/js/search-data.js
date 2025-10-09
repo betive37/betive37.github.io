@@ -64,9 +64,9 @@ ninja.data = [{
           description: "Single Album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-rumination",
-          title: 'Rumination',
-          description: "Individual Project on Creative Capstone Project I - AAT2005",
+            },},{id: "projects-project-6",
+          title: 'project 6',
+          description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-project-7",
