@@ -4,7 +4,7 @@ title: The Correlation and Influencing Factors Between the Spotify Database and 
 description: Team Project on Industrial Mathematics - MAT4331
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: work
 ---
 
