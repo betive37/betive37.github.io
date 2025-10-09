@@ -3,7 +3,7 @@ layout: page
 title: Inside Data, Insight Data
 description: Team Project on Natural Language Processing - AAT3020
 img: assets/img/4.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
