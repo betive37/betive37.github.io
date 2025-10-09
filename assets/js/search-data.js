@@ -39,9 +39,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-ai-mastering-detector-analyzing-the-impact-of-ai-on-music-post-production",
+          title: 'AI MASTERING DETECTOR: ANALYZING THE IMPACT OF AI ON MUSIC POST-PRODUCTION',
+          description: "at ISMIR 2025 (LBD)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
